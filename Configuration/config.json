@@ -1,0 +1,10 @@
+{
+	"login":{
+	    "username": "ujjawal",
+	    "password": "admin"
+	},
+	
+	"app":{
+	    "url": "https://demoblaze.com/index.html"
+	}
+}
