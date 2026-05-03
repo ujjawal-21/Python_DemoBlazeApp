@@ -12,7 +12,7 @@ class TestHomePage:
         lp = HomePage(driver)
         self.logger.info("*********Verifying total products*********")
         count = lp.getTotalProducts()
-        if count == 8:
+        if count == 9:
             self.logger.info("*********Total products count matched*********")
             assert True 
         else:
