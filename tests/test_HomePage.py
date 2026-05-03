@@ -12,18 +12,18 @@ class TestHomePage:
         lp = HomePage(driver)
         self.logger.info("*********Verifying total products*********")
         count = lp.getTotalProducts()
-        if count == 9:
+        if count == 8:
             self.logger.info("*********Total products count matched*********")
             assert True 
         else:
             self.logger.info("*********Total products count mismatched*********")
-            if os.path.exists("..\\Logs"):
+            ''' if os.path.exists("..\\Logs"):
                 print("true")
             else:
                 print("false")
             screenshot_path = os.path.join(os.path.dirname(os.getcwd()), "screenshots", "test_Home.png")
             print(screenshot_path)
-            driver.save_screenshot("..\\screenshots\\test_Home1.png")
+            driver.save_screenshot("..\\screenshots\\test_Home1.png") '''
             assert False 
         
 '''hp = HomePageTest()

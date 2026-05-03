@@ -39,3 +39,36 @@
 05/03/2026 03:46:15 PM: INFO: *********Test-001 Home Page Test*********
 05/03/2026 03:46:15 PM: INFO: *********Verifying total products*********
 05/03/2026 03:46:16 PM: INFO: *********Total products count matched*********
+05/03/2026 04:20:49 PM: INFO: *********Test-001 Home Page Test*********
+05/03/2026 04:20:49 PM: INFO: *********Verifying total products*********
+05/03/2026 04:20:50 PM: INFO: *********Total products count matched*********
+05/03/2026 04:21:00 PM: INFO: ************Verifying Login************
+05/03/2026 04:21:03 PM: INFO: ************Login successful************
+05/03/2026 04:21:14 PM: INFO: ************Verifying Login************
+05/03/2026 04:21:18 PM: INFO: ************Login successful************
+05/03/2026 04:21:28 PM: INFO: ************Verifying Login************
+05/03/2026 04:21:32 PM: INFO: ************Login successful************
+05/04/2026 12:55:35 AM: INFO: *********Test-001 Home Page Test*********
+05/04/2026 12:55:35 AM: INFO: *********Verifying total products*********
+05/04/2026 12:55:36 AM: INFO: *********Total products count matched*********
+05/04/2026 12:57:26 AM: INFO: *********Test-001 Home Page Test*********
+05/04/2026 12:57:26 AM: INFO: *********Verifying total products*********
+05/04/2026 12:57:29 AM: INFO: *********Total products count matched*********
+05/04/2026 01:03:48 AM: INFO: *********Test-001 Home Page Test*********
+05/04/2026 01:03:48 AM: INFO: *********Verifying total products*********
+05/04/2026 01:03:50 AM: INFO: *********Total products count matched*********
+05/04/2026 01:09:27 AM: INFO: *********Test-001 Home Page Test*********
+05/04/2026 01:09:27 AM: INFO: *********Verifying total products*********
+05/04/2026 01:09:28 AM: INFO: *********Total products count matched*********
+05/04/2026 01:17:03 AM: INFO: *********Test-001 Home Page Test*********
+05/04/2026 01:17:03 AM: INFO: *********Verifying total products*********
+05/04/2026 01:17:04 AM: INFO: *********Total products count mismatched*********
+05/04/2026 01:19:22 AM: INFO: *********Test-001 Home Page Test*********
+05/04/2026 01:19:22 AM: INFO: *********Verifying total products*********
+05/04/2026 01:19:23 AM: INFO: *********Total products count mismatched*********
+05/04/2026 01:23:03 AM: INFO: ************Verifying Login************
+05/04/2026 01:23:04 AM: INFO: ************Login Failed************
+05/04/2026 01:23:24 AM: INFO: ************Verifying Login************
+05/04/2026 01:23:27 AM: INFO: ************Login Failed************
+05/04/2026 01:23:38 AM: INFO: ************Verifying Login************
+05/04/2026 01:23:40 AM: INFO: ************Login Failed************
