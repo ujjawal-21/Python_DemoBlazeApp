@@ -17,6 +17,7 @@ class DriverFactory:
         }
         options.add_experimental_option("prefs", prefs)
         options.add_argument("--disable-notifications")
+        options.add_argument("--headless=new")
         driver: WebDriver = webdriver.Chrome(options=options)
         driver.maximize_window()
         driver.get(json_data["app"]["url"])
