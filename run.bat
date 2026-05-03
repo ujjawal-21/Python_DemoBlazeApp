@@ -1,1 +1,1 @@
-python -m pytest tests\test_HomePage.py -v
+python -m pytest tests\ -v
