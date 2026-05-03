@@ -5,7 +5,7 @@ from library.ExcelUtil import ExcelReader
 import pytest
 
 class TestPlaceOrder:
-    data = ExcelReader.getTestData('..\\resource\\testData.xlsx',"Sheet1")
+    data = ExcelReader.getTestData('resource\\testData.xlsx',"Sheet1")
 
     @pytest.fixture
     def init(self, setup_with_Logged_in):
