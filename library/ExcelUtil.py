@@ -2,10 +2,9 @@ from openpyxl import load_workbook
 
 class ExcelReader:
     
-    path = "resource/testData.xlsx"
     @staticmethod
-    def getTestData(sheetName):
-        worksheet = load_workbook(ExcelReader.path)
+    def getTestData(path, sheetName):
+        worksheet = load_workbook(path)
         sheet = worksheet[sheetName]
         
         data = []
